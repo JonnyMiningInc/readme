@@ -8,8 +8,8 @@
 
 > Füge hier einen Screenshot der laufenden Applikation ein.
 
-![RaspberryPi5](C:\Users\jonat\Pictures\Screenshots\RaspberryPi5.png)
-![RaspberryPi5Set](C:\Users\jonat\Pictures\Screenshots\RaspberryPi5Set.png)
+![RaspberryPi5](./RaspberryPi5.png)
+![RaspberryPi5Set](./RaspberryPi5Set.png)
 
 ---
 
